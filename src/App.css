@@ -1,0 +1,35 @@
+.Title {
+
+  text-align: center;
+
+  color: aqua;
+}
+.App {
+  text-align: center;
+}
+.Movie-title {
+  height: 60px;
+}
+.App-header {
+  background-color: black;
+  min-height: 100vh;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+
+}
+.Movie-wrapper {
+  width: 500px;
+  background-color: white;
+  color: black;
+}
+
+.Movie-container {
+width: 100%;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+gap: 20px;
+}
